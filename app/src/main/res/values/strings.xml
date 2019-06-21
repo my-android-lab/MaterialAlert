@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MaterialAlert</string>
+    <string name="show_alert">Show Alert</string>
+</resources>
